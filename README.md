@@ -33,5 +33,3 @@ dotnet ef database update
 dotnet run
 
 
-
-feel free to contribute 🚀
