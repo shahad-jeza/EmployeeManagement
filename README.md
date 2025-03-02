@@ -38,15 +38,15 @@ This is a simple Employee Management application built with ASP.NET Core MVC and
     ```bash
     dotnet restore
 
-Build the application:
+4. Build the application:
       ```bash
       dotnet build
 
-Run database migrations:
+5. Run database migrations:
     ```bash
     dotnet ef database update
 
-Start the application:
+6. Start the application:
       ```bash
       dotnet run
 
