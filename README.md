@@ -22,31 +22,16 @@ Prerequisites
 A code editor (e.g., Visual Studio Code or Visual Studio).
 Installation
 
-Clone the repository:
-bash
-Copy
-git clone https://github.com/shahad-jeza/EmployeeManagement.git
-Navigate to the project directory:
-bash
-Copy
-cd EmployeeManagement
-Restore dependencies:
-bash
-Copy
-dotnet restore
-Apply database migrations:
-bash
-Copy
-dotnet ef database update
-Running the Application
+Installation
 
-Start the application:
 bash
-Copy
+```
+git clone https://github.com/shahad-jeza/EmployeeManagement.git
+cd EmployeeManagement
+dotnet restore
+dotnet ef database update
 dotnet run
-Open your browser and navigate to:
-Copy
-http://localhost:5000
+
 
 
 feel free to contribute 🚀
